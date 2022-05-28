@@ -1,0 +1,22 @@
+{
+  "name": "mup",
+  "version": "0.0.1",
+  "description": "A simple JS web library",
+  "main": "mup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loralighte/mup.js.git"
+  },
+  "keywords": [
+    "mup"
+  ],
+  "author": "Kai Lyons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loralighte/mup.js/issues"
+  },
+  "homepage": "https://github.com/loralighte/mup.js#readme"
+}
